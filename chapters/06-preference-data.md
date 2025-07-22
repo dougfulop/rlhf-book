@@ -112,7 +112,7 @@ Another example is in precise instruction following, such as the evaluation IFEv
 > Write me a short poem about a goldfish. **Start each sentence with the letter g.**
 
 The second part of this query is called the constraint, and the preference data could be constructed with an example in the chosen column that follows the constraint.
-Constructing this preference data, which would be included as *synthetic* preference data involves prompting the same of multiple models twice. Once with the constraint included and once without.
+Constructing this preference data, which would be included as *synthetic* preference data, involves prompting the same of multiple models twice. Once with the constraint included and once without.
 
 For example, prompting GPT-4.5-Preview with both of these gives the following.
 
@@ -159,7 +159,7 @@ Over time, these processes will become far more automated and efficient (especia
 
 The first step is sourcing the vendor to provide data (or one's own annotators). 
 Much like acquiring access to cutting-edge Nvidia GPUs, getting access to data providers in the peak of AI excitement is also a who-you-know game -- those who can provide data are supply-limited. 
-If you have credibility in the AI ecosystem, the best data companies will want you on our books for public image and long-term growth options. 
+If you have credibility in the AI ecosystem, the best data companies will want you on their books for public image and long-term growth options. 
 Discounts are often also given on the first batches of data to get training teams hooked.
 
 If you’re a new entrant in the space, you may have a hard time getting the data you need quickly. 
